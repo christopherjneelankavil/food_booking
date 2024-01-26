@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 class SecondPage extends StatelessWidget {
   final String imageLink;
   final String labelText;
+
   const SecondPage(
       {super.key, required this.imageLink, required this.labelText});
+
 
   @override
   Widget build(BuildContext context) {
@@ -65,7 +67,7 @@ class SecondPage extends StatelessWidget {
               decoration: const BoxDecoration(
                 color: Color.fromARGB(100, 194, 194, 194),
               ),
-            )
+              child: Text()
           ],
         ),
       ),
