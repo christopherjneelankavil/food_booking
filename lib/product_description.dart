@@ -26,8 +26,6 @@ class ProductDescription{
   final String chinese="Chinese cuisine is a vibrant tapestry of diverse flavors and regional specialties, boasting a history of over 5,000 years! Buckle up for a whistle-stop tour:"
       "Dazzling Dim Sum: Bite-sized delights like steamed dumplings (har gow, xiaolongbao), pan-fried buns (char siu bao), and rice noodle rolls (cheung fun) offer a delightful exploration of textures and tastes. "
       "Stir-fry Symphony: From fiery Sichuan Kung Pao chicken to the delicate elegance of stir-fried greens with garlic, the wok's magic transforms fresh ingredients into vibrant, healthy dishes. "
-      "Noodle Nirvana: Slurp your way through thin wheat noodles in Lanzhou hand-pulled beef noodle soup, springy Hakka mein, or Cantonese stir-fried chow mein – each a slurp-worthy celebration. "
-      "Duck Dynasty: Peking duck, its crispy skin a canvas for sweet bean paste, is a quintessential experience. Don't miss regional variations like roast duck with plum sauce or duck confit. "
       "Sweet Surprises: End your journey with delicate almond tofu or tangy lychee sorbet, a perfect balance to the savory feast. Remember, regional variations are endless, so dive in and discover your own favorites!"
       "This is just a glimpse into the vast world of Chinese cuisine. With its emphasis on fresh ingredients, diverse cooking methods, and regional specialties, it's an adventure for the taste buds waiting to be explored.";
 
